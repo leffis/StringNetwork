@@ -1,0 +1,5 @@
+# StringNetworktype "make" to create both executables:
+./stringServer
+./stringClient
+meet all the requirements assignment states
+no extra resource required, follow the steps indicated in assignment to run.
